@@ -1,0 +1,12 @@
+{
+    "name": "sbyaute/symfony-dropzone",
+    "type": "symfony-bundle",
+    "description": "Symfony Form Type",
+    "license": "MIT",
+    "require": {
+        "symfony/dependency-injection": ">4.3"
+    },
+    "autoload": {
+        "psr-4": { "Sbyaute\\SymfonyDropzone\\": "src/" }
+    }
+}
